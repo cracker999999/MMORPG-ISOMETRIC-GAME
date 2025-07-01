@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - HitBox
+  - Enemy
+  - Obstacle
+  - Keybind
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Clickable
+  - Both
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 3042702953
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Top Layer
+    uniqueID: 345661173
+    locked: 0
+  - name: UI
+    uniqueID: 3207902031
+    locked: 0
