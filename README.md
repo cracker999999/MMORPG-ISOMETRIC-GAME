@@ -23,18 +23,18 @@ Some features of the game with images:
 * Settings menu to add keyboard shortcuts
 
 
-![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/1.JPG)
-![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/2.JPG)
-![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/4.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/main/imgPresentation/1.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/main/imgPresentation/2.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/main/imgPresentation/4.JPG)
 
-![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/3.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/main/imgPresentation/3.JPG)
 
-![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/5.JPG)
-![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/6.JPG)
-![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/7.JPG)
-![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/10.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/main/imgPresentation/5.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/main/imgPresentation/6.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/main/imgPresentation/7.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/main/imgPresentation/10.JPG)
 
-![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/8.JPG)
-![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/9.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/main/imgPresentation/8.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/main/imgPresentation/9.JPG)
 
-![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/11.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/main/imgPresentation/11.JPG)
