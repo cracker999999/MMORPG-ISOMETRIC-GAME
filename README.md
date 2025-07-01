@@ -1,24 +1,3 @@
-# Juego MMORPG Isometrico 'SIN TERMINAR' hecho en unity.
-
-#Español
-
-Algunas caracteristicas del juego junto a imagenes:
-
-* Animacion del personaje y monstruo con diustintas vistas y movimientos
-* Animacion de hechizos lanzados por el personaje
-* Animacion al lanzar un hechizo por el personaje
-* Vida, puntos de accion y movimiento del personaje
-* Fisicas añadidas como choque con objetos, pasar por detras de arboles
-
-* Hechizos que los puedes lanzar a un enemigo
-* Posibilidad de arrrastrar hechizos del spellbook a la barra de hechizos
-* Informacion del hechizo junto al daño realizado al poner el cursor encima
-* Enemigos que te pueden seguir si entras en su area de vision, te pegan y bajan vida
-* Ver vida enemigo al ponerle el cursor encima
-
-* Sistema de inventario con items 
-* Posibilidad de utilizar items y que hagan algo, por ejemplo curar al personaje y stackearlos.
-* Menu de ajustes para añadir atajos de teclado
 
 
 
@@ -44,18 +23,18 @@ Some features of the game with images:
 * Settings menu to add keyboard shortcuts
 
 
-![Screenshot](https://github.com/gavrilciunterei/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/1.JPG)
-![Screenshot](https://github.com/gavrilciunterei/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/2.JPG)
-![Screenshot](https://github.com/gavrilciunterei/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/4.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/1.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/2.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/4.JPG)
 
-![Screenshot](https://github.com/gavrilciunterei/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/3.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/3.JPG)
 
-![Screenshot](https://github.com/gavrilciunterei/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/5.JPG)
-![Screenshot](https://github.com/gavrilciunterei/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/6.JPG)
-![Screenshot](https://github.com/gavrilciunterei/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/7.JPG)
-![Screenshot](https://github.com/gavrilciunterei/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/10.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/5.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/6.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/7.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/10.JPG)
 
-![Screenshot](https://github.com/gavrilciunterei/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/8.JPG)
-![Screenshot](https://github.com/gavrilciunterei/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/9.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/8.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/9.JPG)
 
-![Screenshot](https://github.com/gavrilciunterei/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/11.JPG)
+![Screenshot](https://github.com/cracker999999/MMORPG-ISOMETRIC-GAME/blob/master/imgPresentation/11.JPG)
